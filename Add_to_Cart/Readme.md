@@ -1,4 +1,4 @@
-### Test Suite: Auto Login Users
+### Test Suite: ADD_TO_CART
 หน้านี้คือรายละเอียดการทดสอบสั่งสินค้าหลายชิ้นและเช็คยอดตะกร้าของ User ID ปกติที่สามารถใช้งานได้
 
 ### จุดประสงค์การทดสอบ (Test Scenario)
